@@ -35,7 +35,7 @@
                 text-anchor="start"
                 style="mix-blend-mode: normal;"
             >
-                <tspan x="0" dy="0">To get started, click the "Open" button.</tspan>
+                <tspan x="0" dy="0">To get started, click the "Choose Image" button.</tspan>
             </text>
         </g>
     </g>
